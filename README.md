@@ -1,2 +1,3 @@
 # spring-mvc-basic
-java
+- basic spring mvc with jsp views
+- nibernate bean validator
